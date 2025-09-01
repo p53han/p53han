@@ -79,6 +79,8 @@
 
 <h5> Others - </h5>
 
+![Sanity](https://img.shields.io/badge/Sanity.io-%23696969.svg?style=plastic&logo=sanity&logoColor=white)
+![Decap](https://img.shields.io/badge/DecapCMS-%23696969.svg?style=plastic&logo=decapcms&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23696969.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%23696969.svg?style=plastic&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Googlecloud-%23696969.svg?style=plastic&logo=google-cloud&logoColor=white)
