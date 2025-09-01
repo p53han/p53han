@@ -1,4 +1,5 @@
-### Hi, I am Senior Software Engineer 
+<h2 align="center">Hello 👋, I'm Senior Software Engineer</h2>
+<h3 align="center">A dedicated and passionate developer who has expertise in Web & Mobile Front-end development and AI Full-stack.</h3>
 
 ### 📬 Lets Connect:
   
