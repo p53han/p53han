@@ -1,5 +1,5 @@
-<h2 align="center">Hello 👋, I'm Senior Software Engineer</h2>
-<h3 align="center">A dedicated and passionate developer who has expertise in Web & Mobile Front-end development and AI Full-stack.</h3>
+<h2 align="center">Hi, I am a Senior Software Engineer</h2>
+<h5 align="center">A dedicated and passionate developer who has expertise in Web & Mobile Front-end development and AI Full-stack.</h5>
 
 ### 📬 Lets Connect:
   
