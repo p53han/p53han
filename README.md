@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <b>Hi, 👋 </b><br>
   <span>I'm a results-driven engineer with deep expertise in Web & Mobile Frontend, AI Full-Stack, and Headless CMS solutions. I thrive on building robust, scalable products and leading teams to deliver high-impact solutions.</span>
