@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <b>Hi, 👋 </b><br>
   <span>I'm a results-driven engineer with deep expertise in Web & Mobile Frontend, AI Full-Stack, and Headless CMS solutions. I thrive on building robust, scalable products and leading teams to deliver high-impact solutions.</span>
@@ -14,9 +13,9 @@
   <a href="https://t.me/p53han">
     <img src="https://img.shields.io/badge/Telegram-@p53han-%2317A0DB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://wa.me/15203512855">
+  <!-- <a href="https://wa.me/15203512855">
     <img src="https://img.shields.io/badge/WhatsApp-%2B15203512855-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  </a> -->
 </p>
 
 ---
