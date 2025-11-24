@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <a href="mailto:f66437961@gmail.com">
-    <img src="https://img.shields.io/badge/f66437961@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:chocomastery7@gmail.com">
+    <img src="https://img.shields.io/badge/chocomastery7@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/p53han">
     <img src="https://img.shields.io/badge/Telegram-@p53han-%2317A0DB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
