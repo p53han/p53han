@@ -71,7 +71,7 @@
 #### 📭 Contact Me
 <p align="left">
   <a href="mailto:chocomastery7@gmail.com">
-    <img src="https://img.shields.io/badge/chocomastery7@gmail.com-%23EA4335?logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-chocomastery7@gmail.com-%23EA4335?logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/p53han">
     <img src="https://img.shields.io/badge/Telegram-@p53han-%2317A0DB?logo=telegram&logoColor=white" alt="Telegram"/>
