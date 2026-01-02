@@ -76,6 +76,9 @@
   <a href="https://t.me/p53han">
     <img src="https://img.shields.io/badge/Telegram-@p53han-%2317A0DB?logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://discord.gg/A6J6sUGy7z">
+    <img src="https://img.shields.io/badge/Discord-chocomastery-%235865F2?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   <!-- <a href="https://wa.me/15203512855">
     <img src="https://img.shields.io/badge/WhatsApp-%2B15203512855-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a> -->
