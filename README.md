@@ -1,8 +1,8 @@
 
 #### 💼 About Me
 
-- 10+ years of experience delivering production-grade software for startups and enterprises.
-- Specialized in React, Next.js, TypeScript, Node.js, Python, AI/ML, and Headless CMS solutions.
+- 8+ years of experience delivering production-grade software for startups and enterprises.
+- Specialized in React, Next.js, TypeScript, Node.js, Python, C#, Java, AI/ML, Automation and Headless CMS solutions.
 - Cloud-native advocate: AWS, Azure, GCP, Docker, CI/CD.
 - Passionate about clean code, system design, and mentoring engineers.
 - Open to collaboration, consulting, and leadership opportunities.
